@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **davidfh2162@gmail.com**
 
-- 📄 Know about my experiences [CTF Player](CTF Player)
-
 - ⚡ Fun fact **I love Dogs**
 
 ### Blogs posts
@@ -30,7 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david fernández hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david fernández hernández" height="30" width="40" /></a>
-<a href="https://medium.com/@dferher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dferher" height="30" width="40" /></a>
 <a href="/https://zeroxdavid216.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zeroxdavid216.github.io" height="30" width="40" /></a>
 </p>
 
