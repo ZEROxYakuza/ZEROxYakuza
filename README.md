@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xdavid216?tab=repositories](https://github.com/0xdavid216?tab=repositories)
 
-- 📝 I regularly write articles on [https://zeroxdavid216.github.io](https://zeroxdavid216.github.io)
+- 📝 I regularly write articles on [https://0xdavid216.github.io](https://0xdavid216.github.io)
 
 - 💬 Ask me about **how to Hack!**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidfernándezhernández9a28a4133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidfernándezhernández9a28a4133/" height="30" width="40" /></a>
-<a href="/https://zeroxdavid216.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zeroxdavid216.github.io" height="30" width="40" /></a>
+<a href="/https://0xdavid216.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xdavid216.github.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
