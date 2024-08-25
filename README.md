@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OffSec Certifications](https://www.offsec.com/)
 
-- 🌱 I’m currently learning **Binary Exploitation**
+- 🌱 I’m currently learning **Active Directory**
 
 - 👯 I’m looking to collaborate on **Ethical Hacking Tools**
 
