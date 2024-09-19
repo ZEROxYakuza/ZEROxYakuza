@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeroxyakuza?tab=repositories](https://github.com/zeroxyakuza?tab=repositories)
 
-- 📝 I regularly write articles on [https://zeroxyakuza.github.io](https://zeroxyakuza.github.io)
-
 - 💬 Ask me about **how to Hack!**
 
 - 📫 How to reach me **davidfh2162@gmail.com**
@@ -28,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidfernándezhernández9a28a4133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidfernándezhernández9a28a4133/" height="30" width="40" /></a>
-<a href="/https://zeroxyakuza.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zeroxyakuza.github.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
