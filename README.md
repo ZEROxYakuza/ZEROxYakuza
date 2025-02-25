@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeroxyakuza" alt="zeroxyakuza" /></a> </p>
 
-- 🔭 I’m currently working on [OffSec Certifications](https://www.offsec.com/)
+- 🔭 I’m currently working at Seguridad SI
 
-- 🌱 I’m currently learning **Binary Exploitation**
+- 🌱 I’m currently learning **Azure Red Team**
 
 - 👯 I’m looking to collaborate on **Ethical Hacking Tools**
 
